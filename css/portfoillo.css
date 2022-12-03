@@ -1,0 +1,142 @@
+.flag {
+    width: 50%;
+}
+
+.black {
+    width: 50%;
+
+}
+
+.port {
+    width: 40%;
+    height: 20%;
+
+}
+
+.track {
+    width: 40%;
+
+}
+
+.com {
+    width: 50%;
+
+}
+
+body,html {
+    height: 100%;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+    color: #f8fbfc;
+}
+
+nav a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #DB3EB1;
+    font-size: 15px;
+    text-align: right;
+    padding-right: 100px;
+    
+}
+
+nav a:hover {
+    color: #41B6E6;
+    
+}
+
+nav li {
+    display: inline;
+    text-align: 
+}
+
+.nick-image h1 {
+    background-image: url("../images/haitiflag.jpg");
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 115%;
+    height: 85%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.side {
+    width: 20%;
+    float: right;
+    height: 100%;
+    padding: 20px;
+    margin-top: -50%;
+}
+
+.list {
+    width: 20%;
+    float: right;
+    margin-top: -200px;
+}
+
+.side,
+.main-side {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#this-articles {
+    float: left;
+    padding-left: -100px;
+    text-align: left;
+    padding-right: 300px;
+    padding-top: 20px;
+    height: 100%;
+}
+.main-side p{
+    float: left;
+    padding-left: -100px;
+    text-align: left;
+    padding-right: 300px;
+    padding-top: 20px;
+    height: 100%;
+}
+.anime{
+    width: 85%;
+}
+.follow {
+    float: right;
+   width: 8%;
+   margin-top: 450px;
+}
+.main-side h2{
+    color: #41B6E6;
+}
+.main-side h1{
+    color: black;
+}
+.insta{
+    width: 40%;
+}
+.face{
+    width: 40%;
+}
+.follow li{
+display: block;
+}
+.list h2{
+    color: #DB3EB1;
+    font-style: italic;
+}
+.side h2{
+    color: #DB3EB1;
+    font-style: italic;
+}
+.follow h2{
+    color: #DB3EB1;
+    font-style: italic;
+}
+.main-side h2{
+    font-style: italic;
+}
